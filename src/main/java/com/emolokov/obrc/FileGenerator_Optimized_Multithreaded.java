@@ -1,4 +1,4 @@
-package com.emolokov.obc;
+package com.emolokov.obrc;
 
 import java.io.File;
 import java.io.FileWriter;
